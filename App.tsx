@@ -39,7 +39,7 @@ const App: React.FC = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center gap-3">
               <img 
-                src="https://placehold.co/100x100/2B0000/D4AF37.png?text=佛" 
+                src="/1.png" 
                 alt="Logo" 
                 className="h-10 w-10 rounded-full border border-buddha-gold/50 shadow-lg"
               />
