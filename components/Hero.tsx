@@ -20,7 +20,7 @@ const Hero: React.FC = () => {
       {/* Background Image with Overlay */}
       <div className="absolute inset-0 z-0">
         <img 
-          src="https://picsum.photos/1920/1080?grayscale&blur=2" 
+          src="/2.png" 
           alt="Background" 
           className="w-full h-full object-cover opacity-20"
         />
@@ -35,7 +35,7 @@ const Hero: React.FC = () => {
              <div className="relative">
                 <div className="absolute -inset-4 bg-buddha-gold/20 rounded-full blur-xl"></div>
                 <img 
-                    src="https://placehold.co/150x150/2B0000/D4AF37.png?text=佛" 
+                    src="/1.png" 
                     alt="Logo" 
                     className="w-24 h-24 md:w-32 md:h-32 rounded-full border-4 border-buddha-gold/30 shadow-[0_0_30px_rgba(212,175,55,0.2)] relative z-10"
                 />
