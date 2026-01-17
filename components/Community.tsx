@@ -64,7 +64,7 @@ const Community: React.FC = () => {
 
           <div className="bg-gradient-to-r from-white/10 to-transparent p-6 rounded-2xl border border-white/20 hover:bg-white/5 transition duration-300">
             <a 
-              href="https://twitter.com/bnb_world_peace" 
+              href="https://x.com/WUKONGX10086" 
               target="_blank" 
               rel="noopener noreferrer"
               className="flex items-center justify-between group"
