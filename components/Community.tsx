@@ -75,7 +75,7 @@ const Community: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="text-xl font-bold text-white group-hover:text-gray-300 transition-colors">Twitter (X)</h4>
-                  <p className="text-sm text-gray-400">@bnb_world_peace</p>
+                  <p className="text-sm text-gray-400">@WUKONGX10086</p>
                 </div>
               </div>
               <ExternalLink className="text-gray-500 group-hover:text-white transition-colors" />
